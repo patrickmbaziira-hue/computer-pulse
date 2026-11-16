@@ -1,0 +1,31 @@
+﻿====================================================
+           COMPUTER PULSE - HARDWARE & NETWORK LOG   
+====================================================
+Timestamp          : 2026-11-16 15:52:33
+Active Processes   : 261 running processes
+CPU Utilization    : 1% load
+----------------------------------------------------
+Top 3 Memory-Consuming Processes:
+
+Name               RAM_MB
+----               ------
+Memory Compression 893.16
+explorer           276.05
+msedgewebview2     253.45
+
+
+
+----------------------------------------------------
+Disk Storage Breakdown:
+
+DeviceID FreeGB TotalGB
+-------- ------ -------
+C:        92.99  237.21
+
+
+
+----------------------------------------------------
+Network Diagnostics:
+Active IPv4 Address: No Active Network Connection
+Internet Latency   : Host Unreachable (Target: 8.8.8.8)
+====================================================
